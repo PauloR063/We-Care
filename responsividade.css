@@ -1,0 +1,50 @@
+@media screen and (max-width: 803px){
+    
+    header
+    {margin: 44px 0 20px 76px}
+
+    .button-header
+    {position: absolute;
+     top: 38px;
+     left: 390px;
+     width: 148px;
+     height: 53px;}
+
+    .link-header
+    {display: none;} 
+    
+
+    .logo-image 
+    {padding: 49px;
+     margin-top: 90px;
+     margin-left: -12px;}
+
+
+    h1{font-size: 90px;}
+
+    p{margin-left: 16px;
+      margin-bottom: 30px;
+      margin-left: 16px;}
+
+    .button-section 
+    {margin-left: 150px;}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+    
